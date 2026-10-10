@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ruinedall&color=ff9ecd&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=phithyia&color=ff9ecd&style=flat-square" alt="Profile Views" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding%20with%20Love-%23ff9ecd?style=flat-square&logo=ko-fi" alt="Status" />
@@ -37,10 +37,10 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ruinedall&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff9ecd&icon_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=phithyia&show_icons=true&theme=vue&hide_border=true&title_color=ff9ecd&icon_color=ff79c6" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruinedall&theme=dracula&hide_border=true&background=282a36&ring=ff9ecd&fire=ff79c6&currStreakLabel=ff9ecd" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=phithyia&theme=vue&hide_border=true&ring=ff9ecd&fire=ff79c6&currStreakLabel=ff9ecd" alt="GitHub Streak" />
   </p>
 </div>
 
