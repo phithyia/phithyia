@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&weight=600&duration=3000&pause=1000&color=FF9ECD&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%8E%80+Merhaba%2C+Ben+%C4%B0rem!+%F0%9F%8E%80;%F0%9F%92%BB+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;%E2%9C%A8+C%23+Mod+Geli%C5%9Ftiricisi+%26+Yaz%C4%B1l%C4%B1mc%C4%B1" alt="Typing SVG" />
+<!-- Üst Pembe Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9ecd&height=120&section=header&text=Merhaba%2C%20Ben%20%C4%B0rem!&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 
-<br><br>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&weight=600&duration=3000&pause=1000&color=FF9ECD&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%92%BB+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;%E2%9C%A8+C%23+Mod+Geli%C5%9Ftiricisi+%26+Yaz%C4%B1l%C4%B1mc%C4%B1" alt="Typing SVG" />
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=phithyia&color=ff9ecd&style=flat-square" alt="Profile Views" />
 
@@ -50,5 +55,10 @@
 
 <h3>✨ Profilime tatlı bir göz attığın için çok teşekkürler! 🌸</h3>
 <p>Yıldız bırakmayı ve tekrar gelmeyi unutma~ 🎀</p>
+
+<br>
+
+<!-- Alt Pembe Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9ecd&height=80&section=footer&monte=true" width="100%" />
 
 </div>
